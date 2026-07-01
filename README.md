@@ -1,4 +1,4 @@
-Monografia: [Relatorio.pdf](https://github.com/user-attachments/files/29531515/Relatorio.pdf)
+Relatório: [Relatorio.pdf](https://github.com/user-attachments/files/29531515/Relatorio.pdf)
 
 Manual de instruções do projeto: [MANUAL_DE_OPERAÇÃO_E_INSTRUÇÕES_DO_CIRCUITO.pdf](https://github.com/user-attachments/files/29528829/MANUAL_DE_OPERACAO_E_INSTRUCOES_DO_CIRCUITO.pdf)
 
